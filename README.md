@@ -1,6 +1,6 @@
 # **`Reprodução Spotify 🟩`**
 
-### 🎧🟢 Hoje utilizando a plataforma Figma, foi realizado uma reprodução da interface do aplicativo mobile Spotify 🎧🟢 ###
+### 🎧🟢 Hoje utilizando a plataforma Figma, foi realizado uma reprodução da interface do aplicativo mobile Spotify 🟢🎧 ###
 
 #### O documento pdf acima, apresenta toda a ambientação integral da reprodução, contendo 3 telas 📱🟩 ####
 
