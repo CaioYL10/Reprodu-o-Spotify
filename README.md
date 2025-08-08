@@ -8,7 +8,7 @@
   <summary><h2>Informações relevantes ‼️</h2></summary>
 
 ---
-A pasta videos, contém uma demonstração do funcionamento da interface, junto a suas animações 📱🟩🎧
+A pasta Video, contém uma demonstração do funcionamento da interface, junto a suas animações 📱🟩🎧
 ---
 
 </details>
