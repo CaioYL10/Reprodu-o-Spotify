@@ -8,7 +8,12 @@
   <summary><h2>Informações relevantes ‼️</h2></summary>
 
 ---
+
 A pasta Video, contém uma demonstração do funcionamento da interface, junto a suas animações 📱🟩🎧
+
 ---
 
+A pasta Imagens disponibiliza amostras de como ficariam as telas reproduzidas em um celular real 📱‼️🟢
+
+---
 </details>
